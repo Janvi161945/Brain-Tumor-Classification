@@ -33,6 +33,6 @@ Then od.download(" Paste the Dataset Link Here")
 
 
 ### Conclusion
-When trained on 25 epochs with a batch size of 20, the model gives a training accuracy of 0.98 based on Sparse_Categorical_CrossEntropy loss function and it achieves a validation accuracy of 0.91 and a loss of around 0.17 and testing accuracy is 0.95
+When trained on 25 epochs with a batch size of 20, the model gives a training accuracy of 0.98 based on Categorical_CrossEntropy loss function and it achieves a validation accuracy of 0.91 and a loss of around 0.17 and testing accuracy is 0.95
 
 Please help me improve the results. Hit me up at: pagariyajanvi@gmail.com
